@@ -1,9 +1,10 @@
-bde4d1bf6e5b7a6d2156b773a2e11ee3 *DESCRIPTION
+a7d1b63330d053ca1d79c74064adf767 *DESCRIPTION
 12fb652d28a5a6207c8d550bfabb3391 *NAMESPACE
+8b3998d90c0af0f0972611dac62af55d *NEWS.md
 7f810a26ff55a157a1fe51a887e41221 *R/squeeze_bits.R
-19152f91f47e715c546427df2b93d5b9 *README.md
+cd837e88b5979be14decc8758f492ca8 *README.md
 533028532a30e9489ee6096b971de3e3 *man/bits_as_string.Rd
-5fc133b165a5b1136533e3754f3a7864 *man/squeeze_bits.Rd
+3467d9fca2867431fe14db1042fe48d0 *man/squeeze_bits.Rd
 cbe03ec8de8b54c488cd86d52310151a *src/squeeze.c
 2515503ebbe05d1d1d078d3dc0de70ea *tests/testthat.R
 530292cad53b3b7f7d3c0ecff4208891 *tests/testthat/test_bitsqueezr.R
